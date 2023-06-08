@@ -1,2 +1,2 @@
-# C-learning
-4learnC
+# Factorial Calculator.c
+Bruh
